@@ -1,4 +1,4 @@
-### I am Jules Dessors, a french 🇫🇷, self-taught 👨‍🎓, 16 years old 👶 develloper !
+### I am Jules Dessors, a french 🥖, self-taught 👨‍🎓, 16 years old 👶 develloper !
 
 <!--
 **FluoDev/FluoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
